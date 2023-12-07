@@ -1,12 +1,12 @@
-## Jesus Gomez's Portfolio
+## Hello World
 
-## Hello World 
+## Jesus Gomez's Portfolio
 
 This is my home page! My name is Jesus Gomez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. 
 
 My Github page is http://github.com/Jesus97-max
 
-## My Favorite CPSC 120L Labs
+## My Favorite CPSC 120 Labs
  
 * Lab 4
 
